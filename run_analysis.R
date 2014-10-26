@@ -5,7 +5,7 @@ library(data.table)
 
 #Usefull variables to read the data
 type <- c("test", "train")
-directory <- "source/"
+directory <- "./UCI HAR Dataset/"
 
 #Empty data frames
 dataSubject <- data.frame()
