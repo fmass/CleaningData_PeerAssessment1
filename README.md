@@ -16,5 +16,3 @@ To regenerate the [tidyDataSet.txt](tidyDataSet.txt) follow these steps.
 3. This program will generate the [tidyDataSet.txt](tidyDataSet.txt) file.
 
 For more information please read the [cookbook.md](cookbook.md).
-
-
