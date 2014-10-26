@@ -1,9 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document:
-    highlight: tango
----
 ## README
 
 The goal of this projet is to prepare a tidy data set ([tidyDataSet.txt](tidyDataSet.txt)) that can be used for later analysis. The original data was collected from the accelerometers from the Samsung Galaxy S smartphone and was obtained through the following link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
